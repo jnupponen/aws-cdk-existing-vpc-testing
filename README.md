@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# Testing of AWS CDK ec2.Vpc.fromVpcParameters
 
-This is a blank project for TypeScript development with CDK.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This code sample demonstrates using existing VPC with RDS DB Instance construct.
 
 ## Useful commands
 
